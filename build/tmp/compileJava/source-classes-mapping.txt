@@ -1,0 +1,74 @@
+com/example/scrumtracker/controller/MeetingResultsController.java
+ com.example.scrumtracker.controller.MeetingResultsController
+com/example/scrumtracker/controller/AnnouncementsController.java
+ com.example.scrumtracker.controller.AnnouncementsController
+com/example/scrumtracker/model/Announcements.java
+ com.example.scrumtracker.model.Announcements
+com/example/scrumtracker/service/SprintsService.java
+ com.example.scrumtracker.service.SprintsService
+com/example/scrumtracker/CorsConfiguration.java
+ com.example.scrumtracker.CorsConfiguration
+com/example/scrumtracker/service/SprintsServiceImpl.java
+ com.example.scrumtracker.service.SprintsServiceImpl
+com/example/scrumtracker/repository/MeetingResultsMongoDao.java
+ com.example.scrumtracker.repository.MeetingResultsMongoDao
+com/example/scrumtracker/service/IssuesServiceImpl.java
+ com.example.scrumtracker.service.IssuesServiceImpl
+com/example/scrumtracker/repository/AnnouncementsMongoDao.java
+ com.example.scrumtracker.repository.AnnouncementsMongoDao
+com/example/scrumtracker/service/MeetingResultsService.java
+ com.example.scrumtracker.service.MeetingResultsService
+com/example/scrumtracker/controller/UserController.java
+ com.example.scrumtracker.controller.UserController
+com/example/scrumtracker/service/AnnouncementsService.java
+ com.example.scrumtracker.service.AnnouncementsService
+com/example/scrumtracker/model/UsefulLinks.java
+ com.example.scrumtracker.model.UsefulLinks
+com/example/scrumtracker/controller/IssuesController.java
+ com.example.scrumtracker.controller.IssuesController
+com/example/scrumtracker/service/AnnouncementsServiceImpl.java
+ com.example.scrumtracker.service.AnnouncementsServiceImpl
+com/example/scrumtracker/service/MeetingResultsServiceImpl.java
+ com.example.scrumtracker.service.MeetingResultsServiceImpl
+com/example/scrumtracker/service/UsefulLinksService.java
+ com.example.scrumtracker.service.UsefulLinksService
+com/example/scrumtracker/ScrumtrackerApplication.java
+ com.example.scrumtracker.ScrumtrackerApplication
+com/example/scrumtracker/service/UsefulLinksServiceImpl.java
+ com.example.scrumtracker.service.UsefulLinksServiceImpl
+com/example/scrumtracker/model/Issues.java
+ com.example.scrumtracker.model.Issues
+com/example/scrumtracker/model/MeetingResults.java
+ com.example.scrumtracker.model.MeetingResults
+com/example/scrumtracker/repository/IssuesMongoDao.java
+ com.example.scrumtracker.repository.IssuesMongoDao
+com/example/scrumtracker/service/IssuesService.java
+ com.example.scrumtracker.service.IssuesService
+com/example/scrumtracker/controller/MainWebController.java
+ com.example.scrumtracker.controller.MainWebController
+com/example/scrumtracker/repository/SprintsMongoDao.java
+ com.example.scrumtracker.repository.SprintsMongoDao
+com/example/scrumtracker/controller/DashboardController.java
+ com.example.scrumtracker.controller.DashboardController
+com/example/scrumtracker/model/Sprints.java
+ com.example.scrumtracker.model.Sprints
+com/example/scrumtracker/controller/UsefulLinksController.java
+ com.example.scrumtracker.controller.UsefulLinksController
+com/example/scrumtracker/repository/UsefulLinksMongoDao.java
+ com.example.scrumtracker.repository.UsefulLinksMongoDao
+com/example/scrumtracker/model/Users.java
+ com.example.scrumtracker.model.Users
+com/example/scrumtracker/service/LoginService.java
+ com.example.scrumtracker.service.LoginService
+com/example/scrumtracker/repository/UserMongoDao.java
+ com.example.scrumtracker.repository.UserMongoDao
+com/example/scrumtracker/service/UserServiceImpl.java
+ com.example.scrumtracker.service.UserServiceImpl
+com/example/scrumtracker/service/LoginServiceImpl.java
+ com.example.scrumtracker.service.LoginServiceImpl
+com/example/scrumtracker/service/UserService.java
+ com.example.scrumtracker.service.UserService
+com/example/scrumtracker/controller/LoginController.java
+ com.example.scrumtracker.controller.LoginController
+com/example/scrumtracker/controller/ScrumBoardController.java
+ com.example.scrumtracker.controller.ScrumBoardController
